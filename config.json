@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokensrocess",
+        "uuid": 17933531,
+        "checksum": "55hoj"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
